@@ -11,6 +11,12 @@ The system runs on a Raspberry Pi 5, using a custom-trained YOLO model to detect
 
 ---
 
+## Demo
+
+![Detection Demo](docs/demo.png)
+
+---
+
 ## Key Capabilities
 
 - Real-time object detection using YOLO (Ultralytics)
@@ -175,12 +181,6 @@ Place your trained model file at:
 ```
 weights/ball_yolo26_best.pt
 ```
-
----
-
-## Demo
-
-![Detection Demo](docs/demo.png)
 
 ---
 
