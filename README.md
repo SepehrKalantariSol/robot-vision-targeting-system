@@ -178,6 +178,12 @@ weights/ball_yolo26_best.pt
 
 ---
 
+## Demo
+
+![Detection Demo](docs/demo.png)
+
+---
+
 ## Notes
 
 - Model weights are not included in this repository due to size limitations.
