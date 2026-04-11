@@ -1,0 +1,56 @@
+# =============================
+# Virtual environment
+# =============================
+venv/
+.venv/
+
+# =============================
+# Project-specific exclusions
+# =============================
+Archive/
+Readme_helper/
+Archive.zip
+
+# Old / unused scripts
+main_yolo26_lr.py
+
+# =============================
+# Python cache / build
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =============================
+# Model weights (DO NOT upload)
+# =============================
+weights/
+*.pt
+
+# =============================
+# OS / system files
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Output / runtime folders
+# =============================
+runs/
+capture/
+
+# Keep empty folders tracked
+!runs/.gitkeep
+!capture/.gitkeep
+
+# =============================
+# Logs / temp files (optional but recommended)
+# =============================
+*.log
+
+# =============================
+# IDE / editor (optional but recommended)
+# =============================
+.vscode/
+.idea/
