@@ -25,8 +25,7 @@ __pycache__/
 # =============================
 # Model weights (DO NOT upload)
 # =============================
-weights/
-*.pt
+
 
 # =============================
 # OS / system files
